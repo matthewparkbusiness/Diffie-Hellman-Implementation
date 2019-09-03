@@ -6,3 +6,5 @@ Suppose the server has a secret m and wishes to send this value to client. The s
 
 Application Preview:
 
+![Alt text](https://github.com/matthewparkbusiness/Diffie-Hellman-Implementation/blob/master/preview1.png "Title")
+![Alt text](https://github.com/matthewparkbusiness/Diffie-Hellman-Implementation/blob/master/preview2.png "Title")
